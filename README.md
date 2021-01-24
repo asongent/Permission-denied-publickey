@@ -1,4 +1,4 @@
-###This tutorial provides step-by-step to solve the following two key issues:
+This tutorial provides step-by-step to solve the following two key issues:
 ---
 1) "Permission-denied (publickey)" when trying to ssh or copy public key to the node.
 ---sh
